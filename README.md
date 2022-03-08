@@ -1,6 +1,6 @@
 # microservicio
 
-**microservicio** is a project which will be used as base for different microservices.
+**microservicio** is a project which will be used as base for different microservices in Java.
 
 ## Modules
 
