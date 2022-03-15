@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lat.hackademy.micro.dto.ExampleModelDTOTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.006 s - in lat.hackademy.micro.dto.ExampleModelDTOTest

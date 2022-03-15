@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: lat.hackademy.micro.controllers.HomeControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.602 s <<< FAILURE! - in lat.hackademy.micro.controllers.HomeControllerTest
+greetingShouldReturnMessageFromService  Time elapsed: 0.023 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<401>
+	at lat.hackademy.micro.controllers.HomeControllerTest.greetingShouldReturnMessageFromService(HomeControllerTest.java:30)
+

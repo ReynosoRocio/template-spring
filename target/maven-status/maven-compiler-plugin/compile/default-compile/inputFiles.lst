@@ -1,0 +1,15 @@
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\services\ExampleService.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\dto\ExampleModelDTO.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\dbauthentication\User.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\dbauthentication\UserDetails.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\controllers\HomeController.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\configurations\WebConfig.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\exceptions\RestExceptionHandler.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\controllers\ExampleController.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\repositories\ExampleCrudRepository.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\models\ExampleModel.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\Application.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\services\ExampleServiceImpl.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\exceptions\ExceptionDetails.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\exceptions\ModelExampleNotFoundException.java
+C:\Users\Rocio\Documents\GitHub\template-spring\src\main\java\lat\hackademy\micro\utils\Mapper.java

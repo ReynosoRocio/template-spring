@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: lat.hackademy.micro.swagger.SpringDocsIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 2.247 s <<< FAILURE! - in lat.hackademy.micro.swagger.SpringDocsIntegrationTest
+testApp  Time elapsed: 0.007 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<401>
+	at lat.hackademy.micro.swagger.SpringDocsIntegrationTest.testApp(SpringDocsIntegrationTest.java:42)
+
+shouldDisplaySwaggerUiPage  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<401>
+	at lat.hackademy.micro.swagger.SpringDocsIntegrationTest.shouldDisplaySwaggerUiPage(SpringDocsIntegrationTest.java:50)
+

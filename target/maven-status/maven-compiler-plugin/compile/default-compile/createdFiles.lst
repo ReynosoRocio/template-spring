@@ -1,0 +1,15 @@
+lat\hackademy\micro\services\ExampleServiceImpl.class
+lat\hackademy\micro\repositories\ExampleCrudRepository.class
+lat\hackademy\micro\controllers\HomeController.class
+lat\hackademy\micro\exceptions\ModelExampleNotFoundException.class
+lat\hackademy\dbauthentication\User.class
+lat\hackademy\micro\utils\Mapper.class
+lat\hackademy\micro\Application.class
+lat\hackademy\dbauthentication\UserDetails.class
+lat\hackademy\micro\exceptions\ExceptionDetails.class
+lat\hackademy\micro\dto\ExampleModelDTO.class
+lat\hackademy\micro\configurations\WebConfig.class
+lat\hackademy\micro\services\ExampleService.class
+lat\hackademy\micro\models\ExampleModel.class
+lat\hackademy\micro\controllers\ExampleController.class
+lat\hackademy\micro\exceptions\RestExceptionHandler.class
